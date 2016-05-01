@@ -1,6 +1,9 @@
 McColloughEffect
 ================
+##Notice
+I take no responsibility for absolutely anything that comes about use of this app. If you download and use it, you are solely responsible for it.
 
+##Info
 This is a .NET C# app which is intended for the induction of the McCollough Effect.
 
 Click [here](https://github.com/ihatecsv/McColloughEffect/releases) to get the latest release!
