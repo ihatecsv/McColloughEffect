@@ -1,5 +1,6 @@
 McColloughEffect
 ================
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ihatecsv/McColloughEffect)
 ## Notice
 I take no responsibility for absolutely anything that comes about use of this app. If you download and use it, you are solely responsible for it.
 
