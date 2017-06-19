@@ -1,2 +1,6 @@
 language: csharp
 solution: McColloughEffect.sln
+notifications:
+	email:
+		on_failure: always
+		on_success: never
