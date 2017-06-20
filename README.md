@@ -1,6 +1,6 @@
 McColloughEffect
 ================
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ihatecsv/McColloughEffect)
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/ihatecsv/McColloughEffect) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/cd164f6559384bd292343d24873eb70d)](https://www.codacy.com/app/ihatecsv/McColloughEffect?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ihatecsv/McColloughEffect&amp;utm_campaign=Badge_Grade)
 ## Notice
 I take no responsibility for absolutely anything that comes about use of this app. If you download and use it, you are solely responsible for it.
 
